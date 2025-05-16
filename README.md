@@ -81,7 +81,7 @@ The performance of the recommendation models is evaluated using the following me
 1.  **Clone the repository:**
 
     ```bash
-    git clone https://github.com/BinarySkull/Movie-Recommendation-System.git
+    git clone https://github.com/OptimusAI01/Recommendation-System.git
     cd Movie-Recommendation-System
     ```
 
